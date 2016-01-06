@@ -25,7 +25,12 @@
       ];
 
       function load_img(){
-        document.getElementById("img").src = "/img/" + gifs[Math.floor(Math.random() * gifs.length)];
+        var img = document.getElementById("img")
+        var next = img.src;
+        while (next === img.src){
+            next = "/img/" + gifs[Math.floor(Math.random() * gifs.length)];
+        }
+        img.src = next;
       }
       window.onload = function(){
         load_img();
