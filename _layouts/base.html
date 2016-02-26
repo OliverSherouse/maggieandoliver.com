@@ -1,0 +1,30 @@
+<!doctype html>
+<html class="no-js" lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Maggie and Oliver are Getting Married!{% if page.title %} - {{page.title}}{% endif %}</title>
+    <link rel="shortcut icon" href="/favicon.png" />
+    <link href='https://fonts.googleapis.com/css?family=Great+Vibes|Lato' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/css/main.css" />
+  </head>
+  <body>
+    <nav id="navbar">
+      <a href="/"><span class="fa fa-home">&nbsp;Home</span></a>
+      <a id="navexpand"><span class="fa fa-bars"></span></a>
+      <ul id="fullnav">
+        <li><a href="/details"><span class="fa fa-envelope"></span>&nbsp;Details</a></li>
+        <li><a href="/wedding-party"><span class="fa fa-group"></span>&nbsp;Wedding Party</a></li>
+        <li><a href="/things-to-do"><span class="fa fa-camera"></span>&nbsp;Things to Do</a></li>
+        <li><a href="/registry"><span class="fa fa-gift"></span>&nbsp;Registry</a></li>
+      </ul>
+    </nav>
+    <section id="maincontent">
+    {{ content }}
+    </section>
+    <script src="//cdn.jsdelivr.net/g/jquery@2.2.0"></script>
+    <script src="/js/main.js"></script>
+  </body>
+</html>

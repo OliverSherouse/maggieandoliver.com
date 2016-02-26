@@ -1,0 +1,14 @@
+# Site settings
+title: Maggie and Oliver are Getting Married
+email: oliver.sherouse@gmail.com
+description: >
+    Wedding Website for Maggie A. Johnson and Oliver P. Sherouse
+baseurl: ""
+
+url: "http://maggieandoliver.com"
+
+gems: [jekyll-paginate, jekyll-coffeescript]
+
+kramdown:
+  input: GFM
+  hard_wrap: false
