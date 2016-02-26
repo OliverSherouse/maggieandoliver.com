@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Things to do in Washington DC
+title: Things to do in Washington, DC
 ---
 
-# Things to do in Washington DC
+# Things to do in Washington, DC
 
 This page will be updated throughout the spring, but initial recommendations include:
 
@@ -13,5 +13,5 @@ This page will be updated throughout the spring, but initial recommendations inc
 
 Been there, done that? Here’s a few options for those who have done the tourist thing:
 
-* Visit one of the many wineries or breweries in DC and Virginia, from Barrel Oak Winery with breathtaking views of rolling Virginia hills to Port City brewing in Alexandria. 
+* Visit one of the many wineries or breweries in DC and Virginia, from Barrel Oak Winery with beautiful views of rolling Virginia hills to Port City brewing in Alexandria. 
 * Go for a hike! Check out Roosevelt Island and get an escape from the concrete jungle. 

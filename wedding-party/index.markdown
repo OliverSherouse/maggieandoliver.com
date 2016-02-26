@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# Maid of Honor
+# Matron of Honor
 
 Taylor Hanson
 
