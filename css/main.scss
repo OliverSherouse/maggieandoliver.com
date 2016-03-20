@@ -31,6 +31,16 @@ $white: #fbf5e4;
 /* General */
 html {
     overflow-y: scroll;
+
+}
+
+a, a:hover, a:visited, a:active {
+    color: $blue;
+    font-weight: bold;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin-top: 2em;
 }
 
 body {
@@ -48,9 +58,13 @@ article {
     max-width: $small-screen;
     margin-left: auto;
     margin-right: auto;
-    ul ol{margin-bottom: 1em;}
+    ul, ol{
+        margin-bottom: 1.5em;
+        line-height: 1.5em;
+    }
     li {
         margin-left: 1em;
+        margin-bottom: .5em;
     }
     ol{list-style-type: decimal;}
     ul{list-style-type: disc;}
@@ -64,6 +78,7 @@ article {
     a {
         display: inline-block;
         padding: .5em;
+        font-weight: normal;
     }
     position: fixed;
     top:0;
@@ -112,8 +127,8 @@ article {
 }
 
 #sitetitle {
-    padding: 1em;
     h1 {
+        margin-top: 1em;
         text-align: center;
         font-size: 3em;
         font-weight: normal;
@@ -152,4 +167,9 @@ article {
 
 #directions {
     border: 0;
+}
+
+iframe {
+    border: none;
+    width: 100%;
 }
