@@ -18,7 +18,7 @@ Jill Maheny
 
 # Best Man
 
-Percy Xu
+[Percy Xu][egg]{: .egg}
 
 # Groomsmen
 
@@ -27,3 +27,5 @@ Ashwin Kulothungun
 Chad Reese
 
 Kent Mottice
+
+[egg]: http://www.maggieandoliver.com/realsite
