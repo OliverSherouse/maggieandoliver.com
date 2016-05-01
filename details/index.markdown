@@ -5,7 +5,7 @@ title: Details
 
 # RSVP
 
-If you have recieved your invitiation but would prefer to RSVP by email please send a note to [rsvp@maggieandoliver.com](mailto:rsvp@maggieandoliver.com?subject="Wedding RSVP").
+If you have recieved your invitiation but would prefer to RSVP by email please send a note to [rsvp@maggieandoliver.com](mailto:rsvp@maggieandoliver.com?subject=Wedding%20RSVP).
 
 # Ceremony
 Our ceremony will take place at four in the afternoon at St. Paul's Lutheran Church in Falls Church, Virginia. 
